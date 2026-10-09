@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "bb3dc598433f93c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "44250f9e401f782f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe29472c09821e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e05798317205080a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad4884b28dda2f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "744550fa6d75a654",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8c969a03253f9cc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "79962f3b56d41675",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6c4d5aebcec672c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9087a7e225d14441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c01d897e1ac4931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "7cb7e3d968a3169a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "38968a2466e5abae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c30d9c1108c63853",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "de7f9001dcb49e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "b23bd92451324d89",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ebe29472c09821e7",
+  "lastOpenFiles": [
+    "Accounting.md",
+    "Report.md",
+    "Assets.md",
+    "GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (GAAP).md",
+    "User.md.tmp.71051.bb1c629c06b3",
+    "User.md.tmp.71051.aeb03126061b",
+    "Sustainability.md.tmp.71051.ce2d572d1b57",
+    "Income.md.tmp.71051.5425bcd90497",
+    "Expense.md.tmp.71051.5fe69732c28e",
+    "Equity.md.tmp.71051.7ff60e545c17",
+    "Income Statement.md.tmp.71051.fc2d8a70661e",
+    "Balance Sheet.md.tmp.71051.d5c14dc18b89",
+    "Assets.md.tmp.71051.6b396a7732fd",
+    "Assets.md.tmp.71051.4a1b8653fd27",
+    "Equity.md"
+  ]
+}
