@@ -1,3 +1,33 @@
-| Assumptions, Concepts & Principles                                                                                                                                                                                                                 | Conceptual Framework                                                                                                                                                                                                                                                                                                                                                                                                       | Accounting Standards                                                                                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Examples<br><br>- Monetary principle<br>- Accounting entity concept<br>- Accounting period concept<br>- Going concern assumption<br>- Accrual basis assumption<br>- Historical cost principle<br><br>Guide the preparation of financial statements | Examples<br><br>Ch 1: The Objective of General Purpose Financial Reporting (GPFR)<br>Ch 2: [[Report#Qualitative Characteristics\|Qualitative Characteristics]]<br>Ch 3: Reporting entity<br>Ch 4: [[Accounting#Key Accounting Elements\|Elements]]<br>Ch 5: Recognition<br>Ch 6: Measurement<br>Ch 7: Presentation & disclosure<br>Ch 8: Capital maintenance<br><br>Outlines the general principles of financial reporting | Examples<br><br>- AASB 15 Revenue from Contracts with Customers<br>- AASB 102 Inventories<br>- AASB 116 Property, Plant & Equipment<br>- AASB 137 Provisions, Contingent Liabilities & Contingent Assets<br>- AASB 136 Impairment of Assets<br><br>These are mandatory for the preparation of financial reports – specific rules |
+## Assumptions, Concepts & Principles
+Guide the preparation of financial statements.
+
+**Examples**
+- Monetary principle
+- Accounting entity concept
+- Accounting period concept
+- Going concern assumption
+- Accrual basis assumption
+- Historical cost principle
+
+## Conceptual Framework
+Outlines the general principles of financial reporting.
+
+**Chapters**
+1. The Objective of General Purpose Financial Reporting (GPFR)
+2. [[Report#Qualitative Characteristics|Qualitative Characteristics]]
+3. Reporting entity
+4. [[Accounting#Key Accounting Elements|Elements]]
+5. Recognition
+6. Measurement
+7. Presentation & disclosure
+8. Capital maintenance
+
+## Accounting Standards
+Mandatory for the preparation of financial reports: these are the specific rules, issued by the [[Authorities|AASB]].
+
+**Examples**
+- AASB 15 Revenue from Contracts with Customers
+- AASB 102 Inventories
+- AASB 116 Property, Plant & Equipment
+- AASB 136 Impairment of Assets
+- AASB 137 Provisions, Contingent Liabilities & Contingent Assets

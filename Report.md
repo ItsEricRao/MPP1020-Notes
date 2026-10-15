@@ -1,8 +1,10 @@
-- Cashflow Statement
+## Financial Statements
+- Cash Flow Statement
 - [[Income Statement]]
 - [[Balance Sheet]]
 
-*cover in week 8*
+> [!todo]
+> Covered in week 8.
 
 ## Qualitative Characteristics
 Qualitative characteristics are the attributes that make financial information useful to [[User|users]].

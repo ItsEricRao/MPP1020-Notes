@@ -2,4 +2,7 @@
 - Financial Reporting Council (FRC)
 - Australian Accounting Standards Board (AASB)
 - Australian Securities Exchange (ASX)
-- Professional Accounting Bodies – CPAA, CAANZ, IPA.
+- Professional accounting bodies
+	- CPA Australia (CPAA)
+	- Chartered Accountants Australia and New Zealand (CAANZ)
+	- Institute of Public Accountants (IPA)
