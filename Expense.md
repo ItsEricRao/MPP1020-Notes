@@ -5,3 +5,9 @@ Decreases in [[Assets|assets]], or increases in [[Liabilities|liabilities]], tha
 - **Decrease in assets or increase in liabilities:**
 - **Leading to a decrease in equity:**
 - **For reasons other than distributions to the owner:**
+
+## Examples
+- Wages
+- Rent
+- Electricity
+- Insurance

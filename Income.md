@@ -5,3 +5,7 @@ Increases in [[Assets|assets]], or decreases in [[Liabilities|liabilities]], tha
 - **Increase in assets or decrease in liabilities:**
 - **Leading to an increase in equity:**
 - **For reasons other than contributions by the owner:**
+
+## Examples
+- Sales
+- Fees

@@ -9,4 +9,5 @@ $$
 
 **We might also think of OE as the owner’s investment in the business.**
 
-e.g. Capital & Drawings.
+## Examples
+- Capital (Drawings)
