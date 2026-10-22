@@ -1,3 +1,7 @@
+---
+tags:
+  - reporting
+---
 - Sustainability is a word used frequently in recent times as awareness of the environment and the impact humanity is having on it grows.
 - Every individual has an impact on the environment, and every business has a far greater impact.
 - Sustainability focuses on ensuring the social, economic and environmental needs of our community are met and maintained for future generations.

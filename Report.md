@@ -1,3 +1,7 @@
+---
+tags:
+  - reporting
+---
 ## Financial Statements
 - Cash Flow Statement
 - [[Income Statement]]
@@ -16,4 +20,5 @@ Qualitative characteristics are the attributes that make financial information u
 ### Enhancing Qualitative Characteristics
 - **Verifiability:** Different knowledgeable and independent observers can reach a consensus that information is faithfully represented.
 - **Comparability:** Users can identify and understand similarities and differences between items.
+- **Timeliness:** Information is available to decision-makers in time to influence their decisions.
 - **Understandability:** Information is presented clearly and concisely so that users can comprehend it.

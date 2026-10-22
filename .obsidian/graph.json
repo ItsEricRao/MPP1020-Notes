@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#element",
+      "color": {
+        "a": 1,
+        "rgb": 16214805
+      }
+    },
+    {
+      "query": "tag:#hub",
+      "color": {
+        "a": 1,
+        "rgb": 14041247
+      }
+    },
+    {
+      "query": "tag:#recording",
+      "color": {
+        "a": 1,
+        "rgb": 37119
+      }
+    },
+    {
+      "query": "tag:#reporting",
+      "color": {
+        "a": 1,
+        "rgb": 9326278
+      }
+    },
+    {
+      "query": "tag:#framework",
+      "color": {
+        "a": 1,
+        "rgb": 3187820
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.4,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8510317904778494,
+  "scale": 0.6933210465491968,
   "close": true
 }

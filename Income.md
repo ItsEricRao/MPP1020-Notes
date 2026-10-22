@@ -1,3 +1,7 @@
+---
+tags:
+  - element
+---
 ## Definition
 > Increases in [[Assets|assets]], or decreases in [[Liabilities|liabilities]], that result in increases in [[Equity|equity]], other than those relating to contributions from holders of equity claims.
 
@@ -9,3 +13,6 @@
 ## Examples
 - Sales
 - Fees
+
+## Debit and Credit
+Increased by a **credit**, decreased by a **debit**. Normal balance: credit. See [[Debit and Credit]].

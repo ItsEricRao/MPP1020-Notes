@@ -1,3 +1,7 @@
+---
+tags:
+  - element
+---
 ## Definition
 > A present obligation of the entity to transfer an economic resource as a result of past events.
 
@@ -14,3 +18,6 @@ Liabilities are generally classified as **current** or **non-current** according
 ## Examples
 - **Current:** Accounts Payable, Overdraft, Credit Card
 - **Non-current:** Bank Loan (if repayable beyond 12 months)
+
+## Debit and Credit
+Increased by a **credit**, decreased by a **debit**. Normal balance: credit. See [[Debit and Credit]].

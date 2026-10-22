@@ -1,3 +1,9 @@
+---
+tags:
+  - reporting
+---
+Accounting information is designed to meet the needs of both internal and external users.
+
 ## Internal Users
 - Include directors, managers, senior executives, supervisors: those with a position of power.
 - They are considered "internal" as they have access to confidential information within the entity, as it is essential to running the business.
@@ -23,3 +29,16 @@
 - Suppliers, customers and employees when they are not resource providers
 
 Financial reporting is **not directed at these users**, but they can utilize the information for decision making.
+
+## Information Needs
+| User | Uses accounting information to determine |
+| --- | --- |
+| Shareholders | Future profitability, future cash flows for dividends, and possible capital growth of the investment |
+| Banks | Whether the entity can repay a loan |
+| Suppliers / Creditors | Whether the entity can repay debt from purchases |
+| Employees | Job security, the potential to pay awards and bonuses, and promotion opportunities |
+| Consumers | Whether the entity will continue and can provide the right goods and services |
+| Government authorities | Tax payable, and any future tax liabilities or tax assets |
+| Regulatory bodies | Whether the entity follows regulations such as the Corporations Act and Australian tax law |
+| Community / Public | Whether the entity contributes positively to the general welfare and economic growth of the community |
+| Special interest groups | Whether the entity considers environmental, social and industrial aspects in its operations |

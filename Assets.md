@@ -1,3 +1,7 @@
+---
+tags:
+  - element
+---
 ## Definition
 > A present economic resource controlled by the entity as a result of past events. An economic resource is a right that has the potential to produce economic benefits.
 
@@ -14,3 +18,6 @@ Assets are generally classified as **current** or **non-current** according to t
 ## Examples
 - **Current:** Cash, Accounts Receivable, Inventory
 - **Non-current:** Equipment, Buildings
+
+## Debit and Credit
+Increased by a **debit**, decreased by a **credit**. Normal balance: debit. See [[Debit and Credit]].
