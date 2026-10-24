@@ -1,0 +1,28 @@
+name: Rebuild site
+
+# Asks Cloudflare Pages to rebuild accounting.er.cd whenever notes are pushed.
+# Needs a PAGES_DEPLOY_HOOK secret in this repo: the deploy hook URL from the
+# mpp1020-site Pages project. Skips until that secret exists.
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call the Pages deploy hook
+        env:
+          DEPLOY_HOOK: ${{ secrets.PAGES_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$DEPLOY_HOOK" ]; then
+            echo "PAGES_DEPLOY_HOOK is not set yet, skipping."
+            exit 0
+          fi
+          curl -fsS -X POST "$DEPLOY_HOOK" > /dev/null
+          echo "Rebuild requested."

@@ -1,6 +1,8 @@
 ---
 tags:
   - hub
+aliases:
+  - index
 ---
 ## Definition
 Accounting is the process of recording and categorizing financial [[Transaction|transactions]] related to a business. The accounting process includes summarizing, analyzing, and [[Report|reporting]] these transactions to oversight agencies, [[Authorities|regulators]], and tax collection entities. The financial statements used in accounting are a concise summary of financial transactions over an accounting period, summarizing a company's operations, financial position, and cash flows.
