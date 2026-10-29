@@ -16,7 +16,7 @@ Assets are generally classified as **current** or **non-current** according to t
 - **Non-current assets:** Expected to provide economic benefits beyond one year (12 months). Essential for long-term growth and stability.
 
 ## Examples
-- **Current:** Cash, Accounts Receivable, Inventory
+- **Current:** Cash, Accounts Receivable, [[Inventory]]
 - **Non-current:** Equipment, Buildings
 
 ## Debit and Credit

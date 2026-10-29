@@ -60,3 +60,4 @@ Transactions are recorded in the steps of the [[Accounting Cycle|accounting cycl
 - [[GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (GAAP)|GAAP]]
 - [[Sustainability]]
 - [[Service Business]]
+- [[Trading Business]]

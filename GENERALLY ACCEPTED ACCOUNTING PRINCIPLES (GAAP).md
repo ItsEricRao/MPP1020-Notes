@@ -33,7 +33,7 @@ Mandatory for the preparation of financial reports: these are the specific rules
 
 **Examples**
 - AASB 15 Revenue from Contracts with Customers
-- AASB 102 Inventories
+- AASB 102 Inventories (see [[Inventory]])
 - AASB 116 Property, Plant & Equipment
 - AASB 136 Impairment of Assets
 - AASB 137 Provisions, Contingent Liabilities & Contingent Assets
