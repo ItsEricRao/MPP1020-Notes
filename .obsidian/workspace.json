@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perpetual Inventory System.md",
+                "file": "Transaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perpetual Inventory System"
+              "title": "Transaction"
             }
           }
         ]
@@ -198,20 +198,28 @@
   },
   "active": "7370807007e7adba",
   "lastOpenFiles": [
+    "Transaction.md.tmp.227929.7714a5167d63",
+    "Transaction.md.tmp.227929.bcd8c8ebceaa",
+    "Transaction.md.tmp.227929.390491a53778",
+    "Accounting Cycle.md",
+    "Transaction.md",
+    "General Journal.md",
+    "General Ledger.md",
+    "GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (GAAP).md",
+    "Debit and Credit.md",
+    "Assets.md",
+    "Authorities.md",
+    "Balance Sheet.md",
+    "Accounting.md",
+    "Perpetual Inventory System.md",
+    "Liabilities.md",
+    "Income.md",
+    "User.md",
     "Cost of Sales.md",
     "Trading Business.md",
-    "Income.md",
     "Equity.md",
-    "Liabilities.md",
     "Expense.md",
-    "Debit and Credit.md",
-    "General Ledger.md",
-    "Assets.md",
-    "General Journal.md",
     "file:/home/ericrao/Projects/quartz/CODE_OF_CONDUCT.md",
-    "Accounting.md",
-    "Balance Sheet.md",
-    "Authorities.md",
     "Service Business.md",
     "Income Statement.md.tmp.219528.596b589a4c39",
     "Report.md.tmp.219528.a8824960f47d",
@@ -221,19 +229,12 @@
     "GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (GAAP).md.tmp.219528.e5578120b8bc",
     "Transaction.md.tmp.219528.f7997e58dbba",
     "Transaction.md.tmp.219528.47a8955870cb",
-    "Accounting.md.tmp.219528.2e5b08a03a25",
-    "MPP1020 - Week 1 - An Introduction to Accounting.pptx",
-    "Accounting Cycle.md",
     "Accounting Process.png",
-    "Transaction.md",
     "Z. Zhang Consulting Example.md",
     "Accounting Cycle.png",
     "Report.md",
-    "User.md",
     "Sustainability.md",
     "Income Statement.md",
-    "GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (GAAP).md",
-    "file:/home/ericrao/Downloads/Copy of Workshop 2 Additional Task_ Week 1 Short Answer Questions.md",
-    "transactions.md"
+    "file:/home/ericrao/Downloads/Copy of Workshop 2 Additional Task_ Week 1 Short Answer Questions.md"
   ]
 }

@@ -43,3 +43,33 @@ Steps:
 - Complete the accounting equation and check the equation balances.
 
 Once analysed, the transaction is recorded in the [[General Journal]] using the [[Debit and Credit|rules of debit and credit]].
+
+### Example: Recording a Transaction
+**Transaction:** A business collects $5,000 cash from a customer for a service provided last month.
+
+#### Analysis
+1. **Nature:** This is a business transaction. The business receives cash from a customer, so two parties are involved and the business is one of them.
+2. **Elements affected:**
+	- Cash ([[Assets|asset]]) increases by $5,000.
+	- Accounts Receivable ([[Assets|asset]]) decreases by $5,000.
+3. **Accounting equation:** Total assets do not change, and liabilities and equity are not affected, so the equation still balances (0 = 0 + 0). One asset (Accounts Receivable) is simply converted into another (Cash).
+
+#### Accounting Equation
+
+| Assets              | Value   |
+| ------------------- | ------- |
+| Cash                | +$5,000 |
+| Accounts Receivable | −$5,000 |
+
+#### General Journal
+
+| Date  | Details/Accounts                                                | Debit (Dr) | Credit (Cr) |
+| ----- | --------------------------------------------------------------- | ---------: | ----------: |
+| 5 Nov | Cash                                                            |      5,000 |             |
+|       | &emsp;Accounts Receivable                                       |            |       5,000 |
+|       | *(Cash received from customer for service provided last month)* |            |             |
+
+> [!warning] Common mistake
+> Do **not** credit Service [[Income]] here. The income was earned and recorded last month, when the service was provided and the customer was invoiced (Dr Accounts Receivable, Cr Service Income). Recording it again now would count the same income twice and overstate profit.
+>
+> The account reduced is **Accounts Receivable** (money customers owe the business, an asset), not Accounts Payable (money the business owes suppliers, a [[Liabilities|liability]]).
