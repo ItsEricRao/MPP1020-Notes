@@ -12,6 +12,6 @@ The accounting cycle is the sequence of steps that turns business [[Transaction|
 2. **Analyse** each transaction for its effects on accounts. See [[Transaction#Analysis]].
 3. **Record** transaction details in the [[General Journal]] (GJ).
 4. **Post** general journal entries to [[General Ledger]] (GL) accounts.
-5. **Balance day adjustments.**
+5. **Adjust** accounts with [[Balance Day Adjustments|balance day adjustments]] at the end of the period.
 6. Prepare a **Trial Balance** of general ledger account balances.
 7. Prepare the **financial reports (statements)** from the trial balance. See [[Report#Financial Statements]].

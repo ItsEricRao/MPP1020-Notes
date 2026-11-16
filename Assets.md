@@ -13,10 +13,10 @@ tags:
 ## Current vs. Non-Current Assets
 Assets are generally classified as **current** or **non-current** according to their liquidity.
 - **Current assets:** Expected to be converted into cash, sold, or consumed within one year (12 months). Crucial for managing day-to-day operations and ensuring liquidity.
-- **Non-current assets:** Expected to provide economic benefits beyond one year (12 months). Essential for long-term growth and stability.
+- **Non-current assets:** Expected to provide economic benefits beyond one year (12 months). Essential for long-term growth and stability. Their cost is allocated over their useful life as [[Depreciation|depreciation]].
 
 ## Examples
-- **Current:** Cash, Accounts Receivable, [[Inventory]]
+- **Current:** Cash, Accounts Receivable, [[Inventory]], [[Supplies]]
 - **Non-current:** Equipment, Buildings
 
 ## Debit and Credit

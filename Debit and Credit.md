@@ -30,3 +30,4 @@ $$
 - **Assets & Expenses:** increase with a debit, decrease with a credit.
 - **Liabilities, Equity & Income:** increase with a credit, decrease with a debit.
 - The **normal balance** of an account is the side it increases on.
+- **Contra-asset** accounts, such as [[Depreciation|Accumulated Depreciation]], reduce a related asset, so they follow the opposite rule: they increase with a credit and have a credit normal balance.

@@ -15,6 +15,8 @@ tags:
 - Rent
 - Electricity
 - Insurance
+- [[Supplies|Supplies used]]
+- [[Depreciation]]
 
 ## Debit and Credit
 Increased by a **debit**, decreased by a **credit**. Normal balance: debit. See [[Debit and Credit]].

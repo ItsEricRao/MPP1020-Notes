@@ -12,7 +12,7 @@ Guide the preparation of financial statements. Accounting principles are the bas
 - **Accounting entity concept:** An entity's financial activities must be kept separate from the personal or private activities of its owner(s).
 - **Accounting period concept:** The entity's life is divided into equal periods of time called reporting periods (a month, a half-year or a full financial year).
 - **Going concern assumption:** Assumes the entity will continue to operate into the future.
-- **Accrual basis assumption:** Income is recognised when it is earned, and expenses are recognised when they are incurred.
+- **Accrual basis assumption:** Income is recognised when it is earned, and expenses are recognised when they are incurred. At the end of each period, this is applied through [[Balance Day Adjustments|balance day adjustments]].
 - **Historical cost principle:** Transactions are initially recorded at their original cost price.
 
 ## Conceptual Framework
@@ -34,6 +34,6 @@ Mandatory for the preparation of financial reports: these are the specific rules
 **Examples**
 - AASB 15 Revenue from Contracts with Customers
 - AASB 102 Inventories (see [[Inventory]])
-- AASB 116 Property, Plant & Equipment
+- AASB 116 Property, Plant & Equipment (see [[Depreciation]])
 - AASB 136 Impairment of Assets
 - AASB 137 Provisions, Contingent Liabilities & Contingent Assets

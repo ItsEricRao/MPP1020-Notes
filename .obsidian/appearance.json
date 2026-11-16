@@ -1,4 +1,5 @@
 {
   "textFontFamily": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "showRibbon": true
 }

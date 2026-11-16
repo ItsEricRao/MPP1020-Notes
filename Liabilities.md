@@ -16,7 +16,7 @@ Liabilities are generally classified as **current** or **non-current** according
 - **Non-current liabilities:** Obligations expected to be settled beyond one year (12 months). Essential for long-term financial planning and stability.
 
 ## Examples
-- **Current:** Accounts Payable, Overdraft, Credit Card
+- **Current:** Accounts Payable, Overdraft, Credit Card, Wages Payable (see [[Accrued Expenses]])
 - **Non-current:** Bank Loan (if repayable beyond 12 months)
 
 ## Debit and Credit

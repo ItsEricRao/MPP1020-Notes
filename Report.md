@@ -5,6 +5,7 @@ tags:
 ## Financial Statements
 - Cash Flow Statement
 - [[Income Statement]]
+- Statement of Changes in Equity
 - [[Balance Sheet]]
 
 > [!todo]

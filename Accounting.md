@@ -58,6 +58,7 @@ Transactions are recorded in the steps of the [[Accounting Cycle|accounting cycl
 
 ## See Also
 - [[GENERALLY ACCEPTED ACCOUNTING PRINCIPLES (GAAP)|GAAP]]
+- [[Balance Day Adjustments]]
 - [[Sustainability]]
 - [[Service Business]]
 - [[Trading Business]]
