@@ -1,6 +1,6 @@
 ---
 tags:
-  - recording
+  - recording/business
 aliases:
   - Cost of Goods Sold
   - COGS

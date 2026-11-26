@@ -1,6 +1,6 @@
 ---
 tags:
-  - recording
+  - recording/adjustment
 aliases:
   - Supplies Expense
   - Supplies on Hand

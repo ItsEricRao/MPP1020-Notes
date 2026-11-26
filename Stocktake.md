@@ -1,6 +1,6 @@
 ---
 tags:
-  - recording
+  - recording/business
 aliases:
   - Inventory Loss
   - Inventory Gain

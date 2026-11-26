@@ -8,17 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#element",
-      "color": {
-        "a": 1,
-        "rgb": 16214805
-      }
-    },
-    {
       "query": "tag:#hub",
       "color": {
         "a": 1,
-        "rgb": 14041247
+        "rgb": 12724618
+      }
+    },
+    {
+      "query": "tag:#element",
+      "color": {
+        "a": 1,
+        "rgb": 13389312
+      }
+    },
+    {
+      "query": "tag:#recording/adjustment",
+      "color": {
+        "a": 1,
+        "rgb": 15573248
+      }
+    },
+    {
+      "query": "tag:#recording/business",
+      "color": {
+        "a": 1,
+        "rgb": 15236004
       }
     },
     {
@@ -32,7 +46,7 @@
       "query": "tag:#reporting",
       "color": {
         "a": 1,
-        "rgb": 9326278
+        "rgb": 6443222
       }
     },
     {

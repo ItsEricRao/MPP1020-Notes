@@ -1,6 +1,6 @@
 ---
 tags:
-  - recording
+  - recording/business
 ---
 ## Definition
 A trading business sells goods ([[Inventory|inventory]] or stock) to customers to earn revenue. Its success mainly depends on its ability to buy and sell goods at a profit.

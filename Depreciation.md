@@ -1,6 +1,6 @@
 ---
 tags:
-  - recording
+  - recording/adjustment
 aliases:
   - Accumulated Depreciation
   - Carrying Amount
@@ -65,7 +65,7 @@ $$
 $$
 Unlike the straight-line method, residual value is not deducted, and the expense is recalculated each year from the falling written down value.
 
-Also called the **declining balance method**. Allocates a **higher** depreciation expense in the early years of the asset's useful life, decreasing over time. Suits assets that are used more, or contribute more revenue, early in their life, such as computers, software and technological equipment.## Reporting
+## Reporting
 - **[[Income Statement]]:** depreciation expense is a **non-cash expense** that reduces net profit.
 - **[[Balance Sheet]]:** the non-current asset is reported at cost, less accumulated depreciation, to give its carrying amount.
 

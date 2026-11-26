@@ -1,6 +1,6 @@
 ---
 tags:
-  - recording
+  - recording/business
 ---
 ## Definition
 A service business provides intangible products (services) rather than physical goods.

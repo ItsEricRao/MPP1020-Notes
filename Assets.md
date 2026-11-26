@@ -16,8 +16,8 @@ Assets are generally classified as **current** or **non-current** according to t
 - **Non-current assets:** Expected to provide economic benefits beyond one year (12 months). Essential for long-term growth and stability. Their cost is allocated over their useful life as [[Depreciation|depreciation]].
 
 ## Examples
-- **Current:** Cash, Accounts Receivable, [[Inventory]], [[Supplies]]
-- **Non-current:** Equipment, Buildings
+- **Current:** Cash, Accounts Receivable, [[Inventory]], [[Supplies]], Prepaid Rent and Prepaid Insurance (see [[Prepaid Expenses]])
+- **Non-current:** Property, Plant and Equipment (PP&E), e.g. Equipment, Buildings
 
 ## Debit and Credit
 Increased by a **debit**, decreased by a **credit**. Normal balance: debit. See [[Debit and Credit]].

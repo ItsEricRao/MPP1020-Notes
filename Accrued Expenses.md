@@ -1,6 +1,6 @@
 ---
 tags:
-  - recording
+  - recording/adjustment
 aliases:
   - Accrued Expense
   - Expense Payable
